@@ -1,70 +1,212 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> # EduPlanner
 
-## Available Scripts
+| Project Login Page |
+|---------------------------------------|
+|<div align="center" width="auto"><img alt="Finance-Tracker login" src="./src/assets/project-image.png"/></div>|
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<a name="readme-top"></a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<!-- TABLE OF CONTENTS -->
 
-### `npm test`
+# 📗 Table of Contents
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+   - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-### `npm run build`
+<!-- PROJECT DESCRIPTION -->
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# 📖 [EduPlanner] <a name="about-project"></a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> **[EduPlanner]** This project involves the development of an application where online classes with teachers can be reserved by students. It is built with React as the frontend and Ruby on Rails as the backend, enabling students to easily book classes with their preferred teachers among the available options.
+## 🛠 Built With <a name="built-with"></a>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Tech Stack <a name="tech-stack"></a>
 
-### `npm run eject`
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/html/default.asp">HTML</a></li>
+    <li><a href="https://www.w3schools.com/css/default.asp">CSS</a></li>
+    <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+    <li><a href="https://react.dev/learn">React</a></li>
+  </ul>
+</details>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+    <li><a href="https://guides.rubyonrails.org/">Ruby on Rails</a></li>
+  </ul>
+</details>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<!-- Features -->
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Key Features <a name="key-features"></a>
 
-## Learn More
+- **[User authentication through username]**
+- **[Navigation panel with links to classes]**
+- **[Reservation form]**
+- **[My reservations page.]**
+- **[Add class and Delete class options]**
+- **[Display a list of selected classes on the main page]**
+- **[Detailed class view with a "Reserve" button]**
+- **[Responsive design for both mobile and desktop]**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🚀 Live Demo <a name="live-demo"></a>
+ - [N/A]()
 
-### Code Splitting
+## 🔗 Back End Link <a name="documentation"></a>
+- [EduPlanner Backend](https://github.com/ab-noori/EduPlanner-Backend)
+  
+  > _Our backend code is stored in a separate repository and is built using ruby on rails. The backend is responsible for processing data and handling API requests from the frontend. To access our backend code, please click on the provided link below._
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+ 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Analyzing the Bundle Size
+<!-- GETTING STARTED -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 💻 Getting Started <a name="getting-started"></a>
 
-### Making a Progressive Web App
+To get a local copy up and running, follow these steps.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Prerequisites
 
-### Advanced Configuration
+In order to run this project you need:
+- [Ruby on Rails](https://rubyonrails.org/) installed and running. To get more information, read the [installation guide](https://guides.rubyonrails.org/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- [PostgreSQL](https://www.postgresql.org/) installed and running
 
-### Deployment
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+##
 
-### `npm run build` fails to minify
+### Setup
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  https://github.com/ab-noori/EduPlanner-Frontend.git
+```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Install
+
+Install this project with:
+
+```sh
+    cd EduPlanner-Frontend
+    npm install
+```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  npm start
+```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  npm test
+```
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Abdul Ali Noori**
+
+- GitHub: [@ab-noori](https://github.com/ab-noori)
+- Twitter: [@AbdulAliNoori4](https://twitter.com/AbdulAliNoori4)
+- LinkedIn: [abdulali-noori](https://www.linkedin.com/in/abdulali-noori)
+
+👤 : **Gisa Chris**
+
+- GitHub: [@gisa chris](https://github.com/gisachris)
+- LinkedIn: [@gisa chris](https://linkedin.com/in/gisa-chris/)
+
+👤 : **Aimable BANCUNGUYE**
+
+- GitHub: [@Aimable BANCUNGUYE](https://github.com/BANCUNGUYE66)
+- LinkedIn: [@Aimable BANCUNGUYE](https://www.linkedin.com/in/aimable-bancunguye-aba703143/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+- [ ] **[Implement proper user authentication from the front-end to the server]**
+- [ ] **[Ensure that only admin users can access the "Add class" and "Delete class" links]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+  Contributions, issues, and feature requests are welcome!
+
+  Feel free to check the [issues page](https://github.com/ab-noori/EduPlanner-Frontend/issues/new).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+  If you like this project, give it a star.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+  First, I would like to thank Microverse and my coding partners, and then I would like to give special credit to the creator of the design ([Gregoire Vella on Behance](https://www.behance.net/gregoirevella)) that I have used in my project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
