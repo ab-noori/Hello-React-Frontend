@@ -85,9 +85,8 @@
  - [N/A]()
 
 ## 🔗 Back End Link <a name="documentation"></a>
-- [Hello Rails Backend](https://github.com/ab-noori/Hello-Rails-Backend)
-  
   > _Our backend code is stored in a separate repository and is built using ruby on rails. The backend is responsible for processing data and handling API requests from the frontend. To access our backend code, please click on the provided link below._
+  > ### [Hello Rails Backend](https://github.com/ab-noori/Hello-Rails-Backend)
 
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
