@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> # EduPlanner
+> # Hello React Frontend
 
 | Project Login Page |
 |---------------------------------------|
@@ -34,9 +34,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [EduPlanner] <a name="about-project"></a>
+# 📖 [Hello React Frontend] <a name="about-project"></a>
 
-> **[EduPlanner]** This project involves the development of an application where online classes with teachers can be reserved by students. It is built with React as the frontend and Ruby on Rails as the backend, enabling students to easily book classes with their preferred teachers among the available options.
+> **[Hello-React-Frontend]** This project involves creating a Rails API app, setting up a PostgreSQL database to store five different greeting messages, and implementing an API endpoint to retrieve a random greeting from the database.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -85,7 +85,7 @@
  - [N/A]()
 
 ## 🔗 Back End Link <a name="documentation"></a>
-- [EduPlanner Backend](https://github.com/ab-noori/EduPlanner-Backend)
+- [Hello Rails Backend](https://github.com/ab-noori/Hello-Rails-Backend)
   
   > _Our backend code is stored in a separate repository and is built using ruby on rails. The backend is responsible for processing data and handling API requests from the frontend. To access our backend code, please click on the provided link below._
 
@@ -115,7 +115,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  https://github.com/ab-noori/EduPlanner-Frontend.git
+  https://github.com/ab-noori/Hello-React-Frontend.git
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,16 +157,6 @@ To run tests, run the following command:
 - Twitter: [@AbdulAliNoori4](https://twitter.com/AbdulAliNoori4)
 - LinkedIn: [abdulali-noori](https://www.linkedin.com/in/abdulali-noori)
 
-👤 : **Gisa Chris**
-
-- GitHub: [@gisa chris](https://github.com/gisachris)
-- LinkedIn: [@gisa chris](https://linkedin.com/in/gisa-chris/)
-
-👤 : **Aimable BANCUNGUYE**
-
-- GitHub: [@Aimable BANCUNGUYE](https://github.com/BANCUNGUYE66)
-- LinkedIn: [@Aimable BANCUNGUYE](https://www.linkedin.com/in/aimable-bancunguye-aba703143/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -183,7 +173,7 @@ To run tests, run the following command:
 
   Contributions, issues, and feature requests are welcome!
 
-  Feel free to check the [issues page](https://github.com/ab-noori/EduPlanner-Frontend/issues/new).
+  Feel free to check the [issues page](https://github.com/ab-noori/Hello-React-Frontend/issues/new).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
