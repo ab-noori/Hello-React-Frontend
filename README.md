@@ -18,7 +18,6 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -75,9 +74,6 @@
 - **[Displaying data on the webpage using react component]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
- - [N/A]()
 
 ## 🔗 Back End Link <a name="documentation"></a>
   > _My [Hello Rails Backend](https://github.com/ab-noori/Hello-Rails-Backend) code is stored in a separate repository and is built using ruby on rails. The backend is responsible for processing data and handling API requests from the front end. To access our backend code, please click [here](https://github.com/ab-noori/Hello-Rails-Backend)._
