@@ -4,7 +4,7 @@
 
 | Project Login Page |
 |---------------------------------------|
-|<div align="center" width="auto"><img alt="Finance-Tracker login" src="./src/assets/project-image.png"/></div>|
+|![Hello-React-Frontend-img](https://github.com/ab-noori/Hello-React-Frontend/assets/111179533/1791df4d-e8c4-4728-b047-255da97bbab7)|
 
 
 
@@ -70,14 +70,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[User authentication through username]**
-- **[Navigation panel with links to classes]**
-- **[Reservation form]**
-- **[My reservations page.]**
-- **[Add class and Delete class options]**
-- **[Display a list of selected classes on the main page]**
-- **[Detailed class view with a "Reserve" button]**
-- **[Responsive design for both mobile and desktop]**
+- **[Ritreiving data from rails API endpoint]**
+- **[Using react redux toolkit to handling request to API]**
+- **[Displaying data on the webpage using react component]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,7 +80,7 @@
  - [N/A]()
 
 ## 🔗 Back End Link <a name="documentation"></a>
-  > _My [Hello Rails Backend](https://github.com/ab-noori/Hello-Rails-Backend) code is stored in a separate repository and is built using ruby on rails. The backend is responsible for processing data and handling API requests from the frontend. To access our backend code, please click on the provided link below._
+  > _My [Hello Rails Backend](https://github.com/ab-noori/Hello-Rails-Backend) code is stored in a separate repository and is built using ruby on rails. The backend is responsible for processing data and handling API requests from the front end. To access our backend code, please click on the provided link below._
 
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -157,13 +152,6 @@ To run tests, run the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-- [ ] **[Implement proper user authentication from the front-end to the server]**
-- [ ] **[Ensure that only admin users can access the "Add class" and "Delete class" links]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -187,7 +175,7 @@ To run tests, run the following command:
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-  First, I would like to thank Microverse and my coding partners, and then I would like to give special credit to the creator of the design ([Gregoire Vella on Behance](https://www.behance.net/gregoirevella)) that I have used in my project.
+  I would like to thank Microverse and my coding partners.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
